@@ -13,7 +13,7 @@ Business IT Complexity prevention is a must for keeping your company agile and a
 Status of This Memo
 ====================
 
-This document specifies principles to prevent complexity when designing large scale business IT systems. Discussion and suggestions for improvements of this memo are welcome and encouraged. Just create an issue or pull request at [github-link]. The latest version is always published at [read-the-docs]. Distribution of this memo in any form is encouraged, so please share the link [ link ] ! 
+This document specifies principles to prevent complexity when designing large scale business IT systems. Discussion and suggestions for improvements of this memo are welcome and encouraged. Just create an issue or pull request at https://github.com/nocomplexity/0complexity. The latest version is always published at [read-the-docs]. Distribution of this memo in any form is encouraged, so please share the link [ link ] ! 
 
 License
 ========
