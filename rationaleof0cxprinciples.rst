@@ -23,7 +23,7 @@ Implications	:
 - Make sure that your business or system is not depended on the same small group of people.
 - Put effort in a process for seamless transfers of activities from one resource to another if needed. What is easy for you can be hard and complex for others. How long does it take before some other new group can maintain your business and IT systems?
 - Humans do have a very bad intuition for nonlinear systems. Unfortunately, the whole world and all complex systems are characterised by nonlinear dynamic behaviour.
-- Most humans are very bad at predicting the future. So focus on a clear time scale that you can oversee. If your time scale is too far in the future, many unforeseen factors will increase the creation of your business or product. So keep complexity low by limiting the time scale.
+- Most humans are very bad at predicting the future. So focus on a clear time scale that you can oversee. If your time scale is too far in the future, many unforeseen factors will impact the creation of your business or product. So keep complexity low by limiting the time scale.
 - Safety first. Strive to avoid disasters rather than to attain an optimum for a simple solution. Lives of people matter. 
 
  
@@ -36,7 +36,7 @@ Companies and humans will never create new systems with old ancient technologies
 
 Rationale	: You SHOULD embrace and be open for new technologies and management methods. Only you MUST understand the short and long term risks. Beware that silver bullets for hard problems never come overnight. But IT technologies and new management methods do too often over promise and under deliver. Only result is too often an even more complex environment without the promised advantages.
 
-So first always focus on the problem you want to solve and not on so called tools that seems to provide a perfect solution. Don't follow the herd and the hypes. Given a hard complex problem, keep drilling until the problem is absolutely clear to you and then start working on the solution.
+So first focus on the problem you want to solve and not on so called tools that seems to provide a perfect solution. Don't follow the herd and the hypes. Given a hard complex problem, keep drilling until the problem is absolutely clear to you and then start working on the solution.
 
 
 Implications	:
@@ -54,7 +54,7 @@ Rationale	: Models are possible in many ways. But you SHOULD choose to create a 
 
 Implications:
 
-- Create good dynamic models for complex problems is hard. Since complexity is never only about software code, you MUST create a model that gives insights in the elements that matter for preventing complexity.
+- Creating good dynamic models for complex problems is hard. Since complexity is never only about software code, you MUST create a model that gives insights in the elements that matter for preventing complexity.
 - You SHOULD use good (FOSS) software to model your solution and run some typical use cases. Software simulation is easy, predictable and good models can be created very fast. See [  ] for a list of good FOSS simulation tools.
 - Never ever fall in love with your model. No model is perfect. So there is only one way to know if your model works: Try it out for real! With software construction, this is easy: No expensive material cost are involved in creating software products. Just throw the software away if it didn't work out as expected. So take advantage of this great property of software products. This is also the reason that many complex electronic products are created in software first: It's far faster and cheaper to see if it works! 
 

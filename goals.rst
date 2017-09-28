@@ -13,11 +13,11 @@ This 0CX RFC is meant to provide a reusable set of principles for business IT so
 
 - Improve safety, security and privacy of systems, since dependency of humans on software technology is still continuously growing. We humans depend more and more on software driven products.
 
-- Create a better world by preventing that our valuable time, money and resources is not wasted on solving complex business IT problems. We SHOULD use our time working on creating a better and healthier world for us all. So problems that really matter and not on solving complex business IT problems that could have been prevented.
+- Create a better world by preventing that our valuable time, money and resources are not wasted on solving complex business IT problems. We SHOULD use our time working on creating a better and healthier world for us all. So on problems that really matter and not on solving complex business IT problems that could have been prevented.
 
 - Collect and maintain crucial universal but practical principles to avoid business IT complexity. 
 
-- All principles stated SHOULD provide input to steer developments within all types of business and for a wide range of IT architecture and design projects. 
+- All principles stated SHOULD provide input to steer developments within all types of business and for a wide range of IT architectures and design projects. 
 
 - The stated principles SHOULD be practicable usable over multiple disciplines and domains. 
 
