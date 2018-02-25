@@ -9,15 +9,14 @@ This document specifies principles to prevent complexity when designing large sc
 # Contributing
 
 The following people have contributed to this RFC document of principles:
- [name] [OPTIONAL email] [Optional Organisation name ]
+ [name] [OPTIONAL email] [Optional Organization name ]
 
-If you like your name stated here: This book is open source. Issues and pull requests are welcome. All contributors will be added to this list. So Get involved in the discussion to make it better!
+If you like your name stated here: This publication is open source. Issues and pull requests are welcome. All contributors will be added to this list. So join the discussions and make IT better!
 
 
 # Licensing
 
 When you submit text to which you hold the copyright, you agree to license it under:
-
 * Creative Commons Attribution-ShareAlike 4.0 Unported License (“CC BY-SA”), or
 * CC0 1.0 Universal (CC0 1.0)
 
