@@ -8,7 +8,7 @@ Welcome to The Zero (0) Complexity Business IT Design principles
 
 Abstract
 ========
-Business IT Complexity prevention is a must for keeping your company agile and adaptive. Stop wasting time and money on complexity. Effective complexity prevention prevents hidden cost, improves quality and enforces an in-depth understanding of problems and customer needs. This 0CX (zero complexity) standard defines architecture and design principles to prevent complexity for new products. A high level of complexity often means serious risks and cost for systems. Especially for systems where humans, processes, software and new technology play a major role.
+Business IT Complexity prevention is a real must for keeping your company agile and adaptive. Stop wasting time and money on complexity. Effective complexity prevention prevents hidden cost, improves quality and enforces an in-depth understanding of problems and customer needs. This 0CX (zero complexity) standard defines architecture and design principles to prevent complexity for new products. A high level of complexity often means serious risks and cost for systems. Especially for systems where humans, processes, software and new technology play a major role.
 
 Status of This Memo
 ====================
@@ -41,7 +41,9 @@ Content
    contributors
 
    
-
+.. warning::
+   
+   A list with todos
 
 Indices and tables
 ==================
