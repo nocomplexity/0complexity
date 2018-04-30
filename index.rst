@@ -41,9 +41,7 @@ Content
    contributors
 
    
-.. warning::
-   
-   A list with todos
+
 
 Indices and tables
 ==================
