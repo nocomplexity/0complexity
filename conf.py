@@ -63,7 +63,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Zero (0) Complexity Design principles'
-copyright = '2017, Maikel Mardjan and all persons identified as contributor.'
+copyright = '2017,2018 Maikel Mardjan and all persons identified as contributor. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).'
 author = 'Maikel Mardjan'
 
 # The version info for the project you're documenting, acts as replacement for
