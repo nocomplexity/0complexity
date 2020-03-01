@@ -1,4 +1,4 @@
-Copyright (c) 2017 Maikel Mardjan and all persons identified as contributor.
+Copyright (c) 2017-2020 Maikel Mardjan and all persons identified as contributor.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See http://creativecommons.org/licenses/by-sa/4.0/  for the full license text or here below:
 
