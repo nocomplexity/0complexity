@@ -1,10 +1,15 @@
 No Complexity design principles
 ================================
 
-This section gives an overview of principles that SHOULD be used when designing systems.
-If you are short on time and do not like reading: You MUST use the principles below to avoid adding complexity.
+Complex business IT solutions often break and have a short lifetime. Most of the time after some time too many complex solutions are regarded as a real disaster. And not only in terms of money.
 
-Summary of the zero complexity architecture and design principles:
+Software for complex business IT problems becomes complex since simple principles for avoiding complexity are not followed. 
+
+This section gives an overview of the core nocomplexity principles that SHOULD be used when designing systems.
+
+If you are short on time and do not like reading: Using the principles outlined here is enough. Discuss it. Rethink it. And if you do not agree: This is an open publication so your input is welcome!
+
+Summary of the zero complexity architecture & design principles:
 
 1. Put People first! 
 2. Only use what you understand.
@@ -18,4 +23,4 @@ Summary of the zero complexity architecture and design principles:
 10. Privacy by design. 
 11. Never over engineer
 
-In the next section, all principles are explained more in depth. It is RECOMMENDED to read the rationale for every principle stated. 
+In the next sections, all principles are explained in depth. It is RECOMMENDED to read the rationale for every principle stated. 

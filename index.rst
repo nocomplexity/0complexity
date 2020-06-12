@@ -32,12 +32,27 @@ Content
 ========
 
 .. toctree::
-   :maxdepth: 2
-
-   goals
-   introduction
+   :maxdepth: 1
+   :caption: The principles
+   
    0cxdesignprinciples
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: The Rationale
+
+.. toctree::
+   :maxdepth: 2
+   :caption: The Rationale
+
+   introduction
+   goals
    rationaleof0cxprinciples      
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About
+
    contributors
 
    
