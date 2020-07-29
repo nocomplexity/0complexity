@@ -1,0 +1,14 @@
+- file: abstract
+
+- header: The Principles
+- file: 0cxdesignprinciples
+
+- header: The Rationale
+- file: introduction
+- file: goals
+- file: rationaleof0cxprinciples   
+
+- header: About
+- file: contributors
+- file: license
+
