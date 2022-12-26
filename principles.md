@@ -326,14 +326,17 @@ negative side effects.
 
 ## Design for change
 
-Statement : Design for change.
+```{hint} Design for change.
+```
 
-Rationale : The only constant for every business is change. Dealing with
+
+### Rationale 
+The only constant for every business is change. Dealing with
 change SHOULD not be delayed by IT. So whatever the business process is
 your IT systems must support: Make sure you can implement changes with
 minimal effort and minimal cost.
 
-Implications :
+### Implications 
 
 -   Keep your business process simple, so changes can be easily
     incorporated.
@@ -354,17 +357,22 @@ Implications :
 
 ## Make sure you can manage IT!
 
-Statement : The management capacity MUST be able to manage the systems
-that MUST be controlled.
 
-Rationale : Somewhere there seems to be a magical number of people,
+```{hint} Make sure you can manage IT!
+The management capacity MUST be able to manage the systems
+that MUST be controlled.
+```
+
+
+### Rationale
+Somewhere there seems to be a magical number of people,
 systems, application, or software (micro)services that can be managed.
 Management is control, change and maintenance of systems, software,
 people or even customers. Management can be done automated or by human
 activities. But it is obvious that when the number of objects that must
 be managed by one human is automation is the only way.
 
-Implications:
+### Implications
 
 -   If management software, e.g. automatic CI/CD (Continuous Integration
     / Continuous Deployment) software is used, this software MUST be:
@@ -373,9 +381,14 @@ Implications:
 
 ## Privacy by design
 
-Statement : Privacy by design
 
-Rationale : Do not store private data if it is not needed and remove
+```{hint} 
+**Privacy by design.**
+```
+ 
+
+### Rationale 
+Do not store private data if it is not needed and remove
 private data when as soon as possible.
 
 When using this principle you have less challenges to comply with legal
@@ -383,7 +396,7 @@ regulations (local, global). E.g. to comply with the EU General Data
 Protection Regulation (GDPR). Limiting data collection prevents risks on
 data leakage.
 
-Implications :
+### Implications 
 
 -   Visibility and transparency and traceability of data in your
     systems.
@@ -393,9 +406,13 @@ Implications :
 
 ## Never over engineer
 
-Statement : Never over engineer.
+ 
+```{hint} **Never over engineer.**
+```
 
-Rationale : We all like simple and easy solutions. However when
+
+### Rationale
+We all like simple and easy solutions. However when
 decomposing a problem we often fall in the trap to solve all sub defined
 problems and then stop when we have a working system. However real
 simplicity is hard to create. It takes time, iterations and crucial
@@ -411,7 +428,7 @@ between components, layers and a tight coupling between business
 processes and IT systems. So stop engineering when it works. But never
 stop making it simpler, but mind the trap of optimization.
 
-Implications :
+### Implications
 
 -   Prototype before polishing. First get it working, then simply,
     simplify and simplify.
