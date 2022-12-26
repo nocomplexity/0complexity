@@ -1,4 +1,4 @@
-No Complexity design principles
+0Complexity design principles
 ================================
 
 Complex business IT solutions often break and have a short lifetime. Most of the time after some time too many complex solutions are regarded as a real disaster. And not only in terms of money.

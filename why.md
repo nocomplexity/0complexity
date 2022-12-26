@@ -1,5 +1,6 @@
-Introduction
-=============
+# Why
+
+This sections outlines the rationale behind the 0Complexity Design principles.
 
 Our ever-increasing complex world requires smart principles to prevent useless grow of business it complexity. Complexity problems are biased. This is because complexity has turned out to be very difficult to define. But despite a clear definition: Too much complexity is never good. So you SHOULD strive to avoid complexity from the start when initiating business IT projects for building new systems.
 

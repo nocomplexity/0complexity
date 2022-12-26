@@ -1,4 +1,4 @@
-Goals
+Goal
 =======
 
 .. Goals of the zero complexity RFC

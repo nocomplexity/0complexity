@@ -1,14 +1,18 @@
-- file: abstract
+format: jb-book
+root: abstract
+parts:
+- caption: The Principles
+  chapters:
+  - file: 0cxdesignprinciples
 
-- header: The Principles
-- file: 0cxdesignprinciples
+- caption: The Rationale
+  chapters:  
+  - file: goals
+  - file: principles   
 
-- header: The Rationale
-- file: introduction
-- file: goals
-- file: rationaleof0cxprinciples   
-
-- header: About
-- file: contributors
-- file: license
+- caption: About
+  chapters:
+  - file: contributors
+  - file: why
+  - file: license
 
