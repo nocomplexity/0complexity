@@ -1,4 +1,4 @@
-# 0Complexity principles
+# Overview 
 
 
 Complex business IT solutions often break and have a short lifetime. Most of the time after some time too many complex solutions are regarded as a real disaster. And not only in terms of money.
@@ -9,45 +9,108 @@ This section gives an overview of the core nocomplexity principles that SHOULD b
 
 If you are short on time and do not like reading: Using the principles outlined here is enough. Discuss it. Rethink it. And if you do not agree: This is an open publication so your input is welcome!
 
-Summary of the zero complexity architecture & design principles:
+Summary of the Øcomplexity architecture & design principles:
 
-```{important} **Put People first!** 
-```
+::::{grid} 3
+:class-container: text-center
+:gutter: 3
+
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`people;1em;caption-text` Principle
+^^^
+**Put People first!** 
+:::
+
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`bell;1em;caption-text` Principle
+^^^
+**Only use what you understand**
+:::
+
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`book;1em;caption-text` Principle
+^^^
+**Define specific criteria that are tangible to measure complexity.**
+:::
+
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`book;1em;caption-text` Principle
+^^^
+**Create a model of your solution.**
+:::
 
 
-```{important} **Only use what you understand.**
-```
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`book;1em;caption-text` Principle
+^^^
+**Separation of concerns.**
+:::
 
 
-```{important} **Define specific criteria that are tangible to measure complexity.**
-```
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`book;1em;caption-text` Principle
+^^^
+**Reduce all waste.**
+:::
 
 
-```{important} **Create a model of your solution.**
-```
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`alert;1em;caption-text` Principle
+^^^
+**Problems should be fixed through simple solutions.**
+:::
 
-```{important} **Separation of concerns.**
-```
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`checklist;1em;caption-text` Principle
+^^^
+**Design for change.**
+:::
 
-```{important} **Reduce all waste.**
-```
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`blocked;1em;caption-text` Principle
+^^^
+**Make sure you can manage IT!**
+:::
 
-```{important} **Problems should be fixed through simple solutions.**
-```
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`alert;1em;caption-text` Principle
+^^^
+**Privacy by design.**
+:::
+
+:::{grid-item-card}
+:link: principles
+:link-type: doc
+{octicon}`bell;1em;caption-text` Principle
+^^^
+**Never over engineer.**
+:::
+
+::::
+% End of grid
 
 
-```{important} **Design for change.**
-```
 
-```{important} **Make sure you can manage IT!**
-```
-
-
-```{important} **Privacy by design.**
-```
- 
-```{important} **Never over engineer.**
-```
 
 
 In the next sections, all principles are explained in depth. It is RECOMMENDED to read the rationale for every principle stated. 

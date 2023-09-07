@@ -64,7 +64,7 @@ html:
   #announcement              : "<p class='mystyle'> NoComplexity Some custom HTML!</p>"  # A banner announcement at the top of the site.
   #announcement              : "Get Ready for This !"
   extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2023, <a href="https://bm-support.org/"> BM-Support.org</a> & Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'  
-  extra_navbar              : '<a href="https://bm-support.org/"><b>ROI Now!</b></a>'
+  #extra_navbar              : '<a href="https://bm-support.org/"><b>ROI Now!</b></a>' # DOES NOT WORK ANYMORE (checked september 2023)
 
 
 #######################################################################################
@@ -95,3 +95,14 @@ sphinx:
   recursive_update          : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
   config                    :   # key-value pairs to directly over-ride the Sphinx configuration
       html_show_copyright: false
+      html_theme_options:            
+        repository_url: "https://github.com/nocomplexity/0complexity"
+        repository_branch: "master" 
+        use_repository_button: True
+        use_edit_page_button: True
+        use_issues_button: True           
+        logo:
+           text: ØComplexity Design Principles
+        extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2023, <a href="https://bm-support.org/"> BM-Support.org</a> & Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'  
+        
+      

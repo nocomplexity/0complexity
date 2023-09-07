@@ -3,7 +3,7 @@
 
 This publication is created to prevent business IT complexity. 
 
-Copyright (c) 2017-2020 [Maikel Mardjan](https://nocomplexity.com/) and all persons identified as contributor.
+Copyright (c) 2017-2023 [Maikel Mardjan](https://nocomplexity.com/) and all persons identified as contributor.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See http://creativecommons.org/licenses/by-sa/4.0/ .
 
@@ -17,3 +17,6 @@ If you like your name stated here: This book is open source. Issues and pull req
 **So Get involved in the discussion to make it better!**
 
 If you wish to make comments regarding this document, please raise them as GitHub issues. Only send comments by email if you are unable to raise issues on GitHub. All comments are welcome!
+
+This  ØComplexity Principles Guide is updated on
+{sub-ref}`today`.

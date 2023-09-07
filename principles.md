@@ -1,4 +1,4 @@
-# The 0Complexity Principles
+# ØComplexity Principles
 
 This section outlines for every 0CX principle the rationale and outlines
 some implications. A good principle SHOULD cause some sort of pain when
