@@ -1,8 +1,12 @@
 # ØComplexity Principles
 
-This section outlines for every 0CX principle the rationale and outlines
-some implications. A good principle SHOULD cause some sort of pain when
-applying.
+This section outlines for every ØComplexity Principle the rationale and outlines
+some important implications. 
+
+```{attention} 
+A good principle *SHOULD* cause some sort of pain when
+applying. Fighting complexity is never simple or easy.
+```
 
 ## Put People first!
 
