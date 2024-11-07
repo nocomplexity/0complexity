@@ -55,7 +55,7 @@ html:
   use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
   #extra_navbar              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
 #  extra_footer              : ""  # Will be displayed underneath the footer.
-  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
@@ -104,5 +104,14 @@ sphinx:
         logo:
            text: ØComplexity Design Principles
         extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2024, <a href="https://bm-support.org/"> BM-Support.org</a> & Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'  
-        
-      
+      epub_basename: 'ØComplexity Design Principles'
+      epub_use_index: true
+      epub_description: 'ØComplexity Design Principles'
+      epub_author: 'Maikel Mardjan'
+      epub_publisher: 'BM-Support.org'
+      epub_copyright: '© Copyright 2024, BM-Support.org. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0'
+      epub_tocdup: true
+      epub_use_index: true
+      epub_tocscope: includehidden
+      epub_title: 'ØComplexity Design Principles'
+      epub_show_urls: no 

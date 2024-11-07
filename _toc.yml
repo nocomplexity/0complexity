@@ -12,7 +12,7 @@ parts:
 
 - caption: About
   chapters:
-  - file: contributors
+  - file: help
   - file: why
   - file: license
 
