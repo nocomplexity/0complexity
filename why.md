@@ -1,12 +1,12 @@
 # Why
 
-This sections outlines the rationale behind the 0Complexity Design principles.
 
 Our ever-increasing complex world requires smart principles to prevent useless grow of business it complexity. Complexity problems are biased. This is because complexity has turned out to be very difficult to define. But despite a clear definition: Too much complexity is never good. So you SHOULD strive to avoid complexity from the start when initiating business IT projects for building new systems.
 
 In basic business IT complexity does not have to be negative. We love complex technology as long as we  have enough trust in the systems created. However we SHOULD be able to control all risks and be able to manage the created systems in an easy way. 
 
-In general to reduce cost and risks complexity MUST be avoided. Complex systems SHOULD be as simple as possible. Making changes on systems SHOULD not be a risk full and complex gamble. For simple systems maintenance cost are lower and quality is better predictable. 
+In general, to reduce costs and risks, complexity MUST be avoided.
+Complex systems SHOULD be as simple as possible. Making changes on systems SHOULD not be a risk full and complex gamble. For simple systems maintenance cost are lower and quality is better predictable. 
 
 Most of the time you are not aware of the root cause that causes complexity in systems. When you are confronted with complexity you experience strong negative effects. IT complexity can have very serious effects. Besides high cost for maintenance and change, complexity can lead to severe risks that can impact security, privacy and safety for humans. 
 
