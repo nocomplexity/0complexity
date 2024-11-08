@@ -14,5 +14,6 @@ parts:
   chapters:
   - file: help
   - file: why
+  - file: who
   - file: license
 
