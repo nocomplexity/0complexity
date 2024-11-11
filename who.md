@@ -1,8 +1,8 @@
 # About NO|Complexity
 
-## Who is Behind NoComplexity?
+## Who is Behind NO|Complexity?
 
-[NoComplexity.com](https://nocomplexity.com/) is dedicated to solve business IT challenges in a rapidly evolving world. I’m Maikel Mardjan, and I believe that many business IT solutions are overly complex. Simple solutions have many advantages. But creating simple solutions is not simple. Tackling complexity challenges requires an unique combination of expertise, skills and people.
+[NO|Complexity.com](https://nocomplexity.com/) is dedicated to solve business IT challenges in a rapidly evolving world. I’m Maikel Mardjan, and I believe that many business IT solutions are overly complex. Simple solutions have many advantages. But creating simple solutions is not simple. Tackling complexity challenges requires an unique combination of expertise, skills and people.
 
 
 With experience across a range of architecture roles—including IT Architect, Security Architect, Business Architect, and Enterprise Architect—I have worked with various organizations to design IT systems that prioritize simplicity. I hold a Master’s degree (MSc) in Business Studies from the University of Groningen and a Master’s degree (MSc) in Electrical Engineering from Delft University of Technology. Additionally, I am TOGAF 9 Certified and hold CISSP (Certified Information Systems Security Professional) certification.
