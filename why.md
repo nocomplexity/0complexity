@@ -13,3 +13,7 @@ Most of the time you are not aware of the root cause that causes complexity in s
 Nowadays any serious business is impossible without IT (Information Technology). So you SHOULD define general business IT design principles to prevent complexity in the systems you design. Since autonomous IT systems driven by machine learning software (like autonomous cars) SHOULD NOT become unneeded complex and high risk by default. We need solid architecture and design principles to mitigate risks when designing new systems. 
 
 This  zero (0) complexity (0CX) business design principles RFC (Request for Comments) memo is meant to provide a reusable collection of principles to avoid and prevent complexity in new created large scale IT systems.  
+
+The philosophy of the zero (0) Complexity design principles begins with the “zero.” This zero stands for “NO”—no friction, no unwanted dependencies, and no strings attached. More broadly, “zero” embodies a culture of minimalism. At [NoComplexity.com](https://nocomplexity.com/), we believe in adding value by reducing complexity rather than layering on extra features.
+
+
