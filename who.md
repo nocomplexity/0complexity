@@ -94,3 +94,22 @@ Supercharge your data science journey with Mastering JupyterLab. Use this Playbo
 % End of Cards grid
 
 
+### General
+
+
+% Start cards grid
+::::{grid} 3
+:class-container: text-center
+:gutter: 3 
+
+:::{grid-item-card}
+:link: https://nocomplexity.com/documents/arplaybook/introduction.html
+:link-type: url
+{octicon}`book;2em;caption-text` **Architecture Playbook**        
+^^^
+A playbook providing practical tools to help create architectures and designs more quickly and effectively. 
+:::
+
+
+::::
+% End of Cards grid
