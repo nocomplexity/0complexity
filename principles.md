@@ -386,8 +386,8 @@ be managed by one human is automation is the only way.
 ## Privacy by design
 
 
-```{hint} 
-**Privacy by design.**
+```{tip} 
+**Privacy by design. Needs [Security-By-Design](https://nocomplexity.com/documents/securitybydesign/intro.html). Without security, no privacy!**
 ```
  
 

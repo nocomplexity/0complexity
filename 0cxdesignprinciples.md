@@ -16,32 +16,32 @@ Summary of the Øcomplexity architecture & design principles:
 :gutter: 3
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#put-people-first
+:link-type: url
 {octicon}`people;1em;caption-text` Principle
 ^^^
 **Put People first!** 
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#only-use-what-you-understand
+:link-type: url
 {octicon}`bell;1em;caption-text` Principle
 ^^^
 **Only use what you understand**
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#define-specific-criteria-that-are-tangible-to-measure-complexity
+:link-type: url
 {octicon}`book;1em;caption-text` Principle
 ^^^
 **Define specific criteria that are tangible to measure complexity.**
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#create-a-model-of-your-solution
+:link-type: url
 {octicon}`book;1em;caption-text` Principle
 ^^^
 **Create a model of your solution.**
@@ -49,8 +49,8 @@ Summary of the Øcomplexity architecture & design principles:
 
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#separation-of-concerns
+:link-type: url
 {octicon}`book;1em;caption-text` Principle
 ^^^
 **Separation of concerns.**
@@ -58,8 +58,8 @@ Summary of the Øcomplexity architecture & design principles:
 
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#reduce-all-waste
+:link-type: url
 {octicon}`book;1em;caption-text` Principle
 ^^^
 **Reduce all waste.**
@@ -67,40 +67,40 @@ Summary of the Øcomplexity architecture & design principles:
 
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#problems-should-be-fixed-through-simple-solutions
+:link-type: url
 {octicon}`alert;1em;caption-text` Principle
 ^^^
 **Problems should be fixed through simple solutions.**
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#design-for-change
+:link-type: url
 {octicon}`checklist;1em;caption-text` Principle
 ^^^
 **Design for change.**
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#make-sure-you-can-manage-it
+:link-type: url
 {octicon}`blocked;1em;caption-text` Principle
 ^^^
 **Make sure you can manage IT!**
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#privacy-by-design
+:link-type: url
 {octicon}`alert;1em;caption-text` Principle
 ^^^
 **Privacy by design.**
 :::
 
 :::{grid-item-card}
-:link: principles
-:link-type: doc
+:link: principles.html#never-over-engineer
+:link-type: url
 {octicon}`bell;1em;caption-text` Principle
 ^^^
 **Never over engineer.**
