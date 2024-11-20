@@ -1,13 +1,21 @@
 # Overview 
 
 
-Complex business IT solutions often break and have a short lifetime. Most of the time after some time too many complex solutions are regarded as a real disaster. And not only in terms of money.
+Complex business IT solutions often fail and have a short lifespan. Over time, many complex solutions are deemed disasters—not only in terms of financial costs but also in other critical aspects.
 
-Software for complex business IT problems becomes complex since simple principles for avoiding complexity are not followed. 
+Software for complex business IT problems becomes convoluted when simple principles for avoiding complexity are not followed.
 
-This section gives an overview of the core nocomplexity principles that SHOULD be used when designing systems.
 
-If you are short on time and do not like reading: Using the principles outlined here is enough. Discuss it. Rethink it. And if you do not agree: This is an open publication so your input is welcome!
+This section provides an overview of the core nocomplexity principles that SHOULD be applied when designing systems.
+
+
+```{hint}
+Short on time and not a fan of lengthy reading? Simply applying the principles outlined here is a good start. Discuss them. Rethink them. And if you disagree, remember: this is an open publication, and your [input](help) is always welcome!
+
+```
+
+
+
 
 Summary of the Øcomplexity architecture & design principles:
 

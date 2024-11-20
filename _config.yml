@@ -72,7 +72,9 @@ html:
 latex:
   latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
   use_jupyterbook_latex     : true # use sphinx-jupyterbook-latex for pdf builds as default
-
+  latex_show_urls: inline
+  latex_documents:
+     targetname: 0complexitydesign.tex
 #######################################################################################
 # Launch button settings
 launch_buttons:
@@ -89,7 +91,8 @@ repository:
 
 #######################################################################################
 # Advanced and power-user settings
-sphinx:
+sphinx:  
+  author: 'Maikel Mardjan'
   extra_extensions          :   # A list of extra extensions to load by Sphinx (added to those already used by JB).
   local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
   recursive_update          : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
@@ -114,4 +117,5 @@ sphinx:
       epub_use_index: true
       epub_tocscope: includehidden
       epub_title: 'ØComplexity Design Principles'
-      epub_show_urls: no 
+      epub_show_urls: false 
+      

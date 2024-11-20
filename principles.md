@@ -14,58 +14,36 @@ applying. Fighting complexity is never simple or easy.
 ```{admonition} Put people first! Or never ever forget the importance of humans and the human factor.
 :class: tip, dropdown
 
-Of course, we known that most systems SHOULD serve humans and also
-maintenance is done by humans. But looking at digital systems sometimes
-we wonder for what kind of humans the systems were created.
+Of course, we know that most systems SHOULD serve humans, and maintenance is also done by humans. 
+But looking at digital systems sometimes, we wonder for what kind of humans these systems were created.
+
 ```
 
 
 ### Rationale 
+
 Only humans experience the complexity. Humans are in charge
 for creating and maintaining your business IT landscape. Most humans
 like to be happy. Humans use technology. Explicit or implicit. Humans
 know what real value is. Human emotions and fears SHOULD NOT be
-neglected. E.g. are you willing to put your life in hand of a machine
+neglected.For example, are you willing to put your life in hand of a machine
 without any safety guarantee for your health? So whatever you are
 designing, never forget it’s all about humans.
 
-To prevent complexity in your product development you MUST put people
-before everything. If people are happy, healthy, feel safe and are
-really motivated to work together only then it is possible to work on
-solving complex problems without ending with complex products. People
-are more important than what they produce. Good positive people will
-learn. Make sure learning is allowed, so create a safe environment for
-learning.
+To prevent complexity in product development, you MUST prioritize people above all else. When people are happy, healthy, feel safe, and are genuinely motivated to work together, it becomes possible to solve complex problems without creating overly complex products. People are more important than what they produce. Positive, capable individuals will learn and grow. Ensure that learning is encouraged by creating a safe and supportive environment for it.
 
-Creating great software solutions will never make every person happy.
-But if no real harm is done, a little discomfort to change the world
-SHOULD be acceptable. You cannot make everyone happy. Creating simpler
-and better solutions means dealing with the human factor that comes with
-a change process, e.g. friction, discussions and emotions. So listen, be
-open, be good, and then doing it all over again. Iterate. Remember: All
-people matter.
+Creating great software solutions will never make everyone happy. However, if no real harm is done, a little discomfort in the name of changing the world SHOULD be acceptable. You cannot please everyone. Developing simpler and better solutions requires addressing the human factors inherent in any change process—such as friction, discussions, and emotions. So listen, stay open, act with kindness, and be prepared to repeat the process. Iterate. Always remember: all people matter.
+
 
 ### Implications
 
--   Make sure all environmental factors are suited for people to work on
-    good solutions. Organization culture SHOULD put people working on
-    solutions above all. E.g. short or long time profit.
--   Make sure that your business or system is not depended on the same
-    small group of people.
--   Put effort in a process for seamless transfers of activities from
-    one resource to another if needed. What is easy for you can be hard
-    and complex for others. How long does it take before some other new
-    group can maintain your business and IT systems?
--   Humans do have a very bad intuition for nonlinear systems.
-    Unfortunately, the whole world and all complex systems are
-    characterised by nonlinear dynamic behaviour.
--   Most humans are very bad at predicting the future. So focus on a
-    clear time scale that you can oversee. If your time scale is too far
-    in the future, many unforeseen factors will impact the creation of
-    your business or product. So keep complexity low by limiting the
-    time scale.
--   Safety first. Strive to avoid disasters rather than to attain an
-    optimum for a simple solution. Lives of people matter.
+* Ensure that all environmental factors are conducive to enabling people to work on effective solutions. Organizational culture SHOULD prioritize the people working on solutions over everything else, including short- or long-term profits.
+* Ensure that your business or system does not rely on the same small group of people.
+* Invest in a process for seamless transfer of activities from one resource to another, if necessary. What may seem simple to you can be challenging and complex for others. How long would it take for a new group to maintain your business and IT systems?
+* Humans often have poor intuition when it comes to nonlinear systems. Unfortunately, the entire world and all complex systems are characterized by nonlinear dynamic behavior.
+* Most humans are very bad at predicting the future. So focus on a clear time scale that you can oversee. If your time scale is too far in the future, many unforeseen factors will impact the creation of your business or product. Keep complexity low by limiting the time horizon.
+* Safety first. Aim to prevent disasters rather than optimize for a single simple solution. Lives matter.
+
 
 ## Only use what you understand
 
@@ -83,16 +61,12 @@ often pretend to comprise what they are using.
 
 
 ### Rationale 
-You SHOULD embrace and be open for new technologies and
-management methods. Only you MUST understand the short and long term
-risks. Beware that silver bullets for hard problems never come
-overnight. But IT technologies and new management methods do too often
-over promise and under deliver. Only result is too often an even more
-complex environment without the promised advantages.
+You SHOULD embrace and remain open to new technologies and management methods. However, you MUST understand the short- and long-term risks involved. Be aware that silver-bullet solutions to hard problems never appear overnight. Too often, IT technologies and new management methods overpromise and underdeliver. The result is frequently an even more complex environment without the promised advantages.
+
 
 So first focus on the problem you want to solve and not on so called
 tools that seems to provide a perfect solution. Don't follow the herd
-and the hypes. Given a hard complex problem, keep drilling until the
+and the hypes. Given a hard, complex problem, keep drilling until the
 problem is absolutely clear to you and then start working on the
 solution.
 
@@ -123,13 +97,9 @@ A good model always helps to find the real problem cause. If possible create a s
 
 
 ### Rationale 
-Models are possible in many ways. But you SHOULD choose to
-create a model that not only you but also your stakeholders understand.
-Create a model that simulates all the effects that you think are
-important. E.g. create an architecture model, a security view, a privacy
-model, a threat model, a process model, a data model, an interaction
-model, a governance model, a cost model or any type of model that steers
-development in the desired direction.
+
+Models can be created in many ways. However, you SHOULD choose to develop a model that is understandable not only to you but also to your stakeholders. Design a model that simulates all the effects you consider important. For example, you could create an architecture model, a security view, a privacy model, a threat model, a process model, a data model, an interaction model, a governance model, a cost model, or any other type of model that guides development in the desired direction.
+
 
 ### Implications
 
@@ -139,28 +109,18 @@ development in the desired direction.
     complexity.
 -   You SHOULD use good (FOSS) software to model your solution and run
     some typical use cases. Software simulation is easy, predictable and
-    good models can be created very fast. See \[ \] for a list of good
-    FOSS simulation tools.
--   Never ever fall in love with your model. No model is perfect. So
-    there is only one way to know if your model works: Try it out for
-    real! With software construction, this is easy: No expensive
-    material cost are involved in creating software products. Just throw
-    the software away if it didn't work out as expected. So take
-    advantage of this great property of software products. This is also
-    the reason that many complex electronic products are created in
-    software first: It's far faster and cheaper to see if it works!
+    good models can be created very fast. Check [the list](https://nocomplexity.com/documents/reports/SimplifyIT.pdf) of good
+    FOSS simulation tools. Or use mature open architecture tools, [check our list](https://nocomplexity.com/documents/arplaybook/introduction.html)!
+
+* Never fall in love with your model. No model is perfect. There is only one way to determine if your model works: try it out in real-world scenarios! With software development, this is straightforward—there are no expensive material costs involved in creating software products. Simply discard the software if it doesn’t work as expected. Take full advantage of this unique property of software products. This is also why many complex electronic products are first created in software: it’s far faster and cheaper to test if they work!   
+
 
 ## Define specific criteria that are tangible to measure complexity
 
 ```{admonition} Define specific criteria that are tangible, realistic and measurable to check if your system is not getting too complex.
 :class: tip, dropdown
 
-Feedback based on facts is valuable. This accounts also for managing
-complexity within your systems. Make the complexity data hard. How many
-components are involved? How many interfaces are involved? How many
-concurrent users request will be served? Too often hard tangible
-criteria to evaluate the complexity of a system are missing. Too often
-all there is are conflicting opinions and perceptions.
+Feedback based on facts is valuable. This also applies to managing complexity within your systems. Make the complexity data concrete. How many components are involved? How many interfaces are required? How many concurrent user requests will be served? Too often, tangible criteria for evaluating the complexity of a system are missing. Instead, conflicting opinions and perceptions dominate the discussion.
 
 ```
 
@@ -193,19 +153,12 @@ Separation of concerns results in more degrees of freedom. Separation of concern
 
 
 ### Rationale 
-Problem solving is hard. Even harder is to solve problems in
-a simple way. Too often we end up with very complex solutions for a
-simple problem.
 
-By using the separation of concern principle it is easier to understand
-how a system works and where improvements can be done. Separation of
-concerns means that sometimes you SHOULD strive to create autonomous
-SBB’s (Solution Building Blocks). Call it working towards a
-micro-services style for your software building blocks. But the
-separation of concern is also applicable to business domains. E.g. do
-not mix external regulator processes with internal customer value
-processes. When applying SoC separation of work for all kind of agile
-work methodologies is possible.
+Problem-solving is challenging. Making complex problems simple is even harder. Too often, we end up with overly complex solutions and IT systems to simple problems. 
+
+By using the principle of separation of concerns, it is easier to understand how a system works and where improvements can be made. Separation of concerns means that, at times, you SHOULD strive to create autonomous Solution Building Blocks (SBBs). You can think of it as working toward a microservices architecture for your software building blocks. However, separation of concerns also applies to business domains. For example, do not mix external regulatory processes with internal customer value processes. When applying SoC, the separation of work across all agile methodologies becomes possible.
+
+
 
 ### Implications
 
@@ -288,18 +241,10 @@ Use a proven method based from our [PSM collection](https://www.bm-support.org/p
 
 
 ### Rationale 
-Use simple solutions over complex solutions. Unfortunately
-designing a simple solution is much harder than creating a complex
-solution. Senior engineers and experts in a domain with years of
-experience have developed a troubled sight on what is simple and what is
-complex. To be clear: A simple solution is a solution where no
-configuration, maintenance or control is needed.
+Use simple solutions over complex ones. Unfortunately, designing a simple solution is much harder than creating a complex one. Senior engineers and domain experts with years of experience often develop a skewed perspective on what is simple and what is complex. To be clear: A simple solution is one where no configuration, maintenance, or control is required.
 
-Elegantly simple designs don’t happen by chance. They’re the result of
-difficult decisions and discussion. Whether in the ideation, designing,
-or the testing phases of projects, all participant play a critical role
-in restraining the feature sets to reduce the complexity of the
-resulting product.
+Elegantly simple designs don’t happen by chance. They’re the result of difficult decisions and discussions. Whether in the ideation, design, or testing phases of projects, all participants play a critical role in restraining the feature set to reduce the complexity of the resulting product.
+
 
 Simple solutions don’t focus on features only, they focus also on
 clarity.
@@ -310,7 +255,7 @@ find multiple simple solutions and choose the one that fits you. Good
 solutions needs to be so simple and transparent you forget how hard it
 was to get it simple.
 
-For serious problem solving it is common to separate the problem in
+For serious [problem solving](https://nocomplexity.com/documents/reports/SimplifyIT.pdf) it is common to separate the problem in
 various domains. Things go wrong when you are creating a solution that
 you think is best for all domains involved.
 
@@ -350,7 +295,7 @@ minimal effort and minimal cost.
 -   Make use of open standards supported by FOSS software
     implementations. This so you do not have an vendor lock in when you
     do want it.
--   All basic tests should be automated when possible. Nowadays every
+-   All basic tests SHOULD be automated when possible. Nowadays every
     serious business IT system must meet an enormous amount of explicit
     and implicit standards and requirements. E.g. for safety, security,
     privacy and of course error free is always nice to have.
@@ -369,12 +314,8 @@ that MUST be controlled.
 
 
 ### Rationale
-Somewhere there seems to be a magical number of people,
-systems, application, or software (micro)services that can be managed.
-Management is control, change and maintenance of systems, software,
-people or even customers. Management can be done automated or by human
-activities. But it is obvious that when the number of objects that must
-be managed by one human is automation is the only way.
+Somewhere, there seems to be a magical number of people, systems, applications, or software (micro)services that can be managed. Management involves the control, change, and maintenance of systems, software, people, or even customers. Management can be done automatically or through human activities. However, it is obvious that when the number of objects that must be managed by one person increases, automation becomes the only solution.
+
 
 ### Implications
 
@@ -406,7 +347,7 @@ data leakage.
     systems.
 -   Respect for User Privacy.
 -   Data Minimization.Collection of personally identifiable information
-    should be kept to a strict minimum.
+    SHOULD be kept to a strict minimum.
 
 ## Never over engineer
 
@@ -416,21 +357,11 @@ data leakage.
 
 
 ### Rationale
-We all like simple and easy solutions. However when
-decomposing a problem we often fall in the trap to solve all sub defined
-problems and then stop when we have a working system. However real
-simplicity is hard to create. It takes time, iterations and crucial
-feedback. The risk is we over engineer. The balance between working on a
-simple solution and over engineering is hard to find. In general when
-your system will not get any simpler stop engineering. Maybe later you
-see a way or opportunity for simplifying.
+We all like simple and easy solutions. However, when decomposing a problem, we often fall into the trap of trying to solve all the subproblems and then stop once we have a working system. However, real simplicity is hard to achieve. It takes time, iterations, and crucial feedback. The risk is that we over-engineer. The balance between working on a simple solution and over-engineering is hard to find. In general, when your system cannot be made any simpler, stop engineering. Maybe later you will see a way or opportunity for simplifying.
 
-Over engineering often occurs during optimization. Optimization SHOULD
-always be considered harmful: In particular, optimization often
-introduces complexity, and as well as introducing tighter coupling
-between components, layers and a tight coupling between business
-processes and IT systems. So stop engineering when it works. But never
-stop making it simpler, but mind the trap of optimization.
+Over-engineering often occurs during optimization. Optimization SHOULD always be considered harmful. In particular, optimization often introduces complexity, as well as tighter coupling between components, layers, and a close coupling between business processes and IT systems. So stop engineering when it works, but never stop making it simpler—just be mindful of the trap of over-optimization.
+
+
 
 ### Implications
 

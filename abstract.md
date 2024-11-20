@@ -1,8 +1,12 @@
 # Abstract
 
-Business IT Complexity prevention is a real must for keeping your company agile and adaptive. So stop wasting time and money on IT complexity. Effective business IT complexity prevention prevents hidden cost, improves quality and enforces an in-depth understanding of problems and customer needs. This 0CX (zero-complexity) standard defines architecture and design principles to prevent complexity for new products. 
+Business IT Complexity prevention is a real must for keeping your company agile and adaptive. So stop wasting time and resources on IT complexity. Effective business IT complexity prevention prevents hidden cost, improves quality and enforces an in-depth understanding of problems and customer needs. This zero complexity (0CX) standard defines architecture and design principles to prevent complexity for new products. 
 
+```{tip}
 Avoid IT complexity: A high level of complexity often means serious risks and cost for systems. Especially for systems where humans, processes, software and new technology play a major role.
+So use our [zero design complexity principles](principles) to prevent IT complexity from the start.
+```
+
 
 ## Status of This Memo
 

@@ -5,7 +5,7 @@ Goal
 
 This 0CX RFC is meant to provide a reusable set of principles for business IT software projects. It has the following specific goals:
 
-- Offer a small but crucial list of principles to prevent complexity.
+- Provide a concise yet crucial list of principles to prevent complexity.
 
 - Create a living document that outlines key business and IT knowledge available today to create large systems without negative complexity effects.
 
@@ -19,6 +19,6 @@ This 0CX RFC is meant to provide a reusable set of principles for business IT so
 
 - All principles stated SHOULD provide input to steer developments within all types of business and for a wide range of IT architectures and design projects. 
 
-- The stated principles SHOULD be practicable usable over multiple disciplines and domains. 
+- The stated principles SHOULD be practically usable over multiple disciplines and domains. 
 
 We know we aim high, but life is too short for wasting time on designing over engineered systems and we all SHOULD do better things than simplifying complex systems. 

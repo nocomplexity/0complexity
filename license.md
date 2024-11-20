@@ -1,6 +1,6 @@
 # License and Sharing
 
-Copyright (c) 2015-2023 Maikel Mardjan and all persons identified as
+Copyright (c) 2015-2024 [Maikel Mardjan](https://nocomplexity.com/) and all persons identified as
 contributor.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike
