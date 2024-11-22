@@ -5,7 +5,7 @@ This publication is created to prevent business IT complexity.
 
 ## Share this publication
 
-This publication on is created to be shared as much as possible. 
+This publication on is created to be shared as much as possible. Sharing is greatly appreciated!
 
 ````{tip}
 To share this publication , just share the URL: [https://nocomplexity.com/documents/0complexity/](https://nocomplexity.com/documents/0complexity/)
@@ -14,6 +14,11 @@ Or use copy-paste:
 https://nocomplexity.com/documents/0complexity/
 ```
 ````
+
+```{tip}
+You can also get an ePUB or PDF version of the 0Complexity Design principles.
+So [get the ePUB and PDF](https://nocomplexity.gumroad.com/)
+```
 
 
 ## Join
